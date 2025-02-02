@@ -55,9 +55,9 @@ The starting pasge:
 
 Win lose screens:
 
-![win screen](winScreen.jpg)
+![win screen](winScreen.JPG)
 
-![lose screen](loseScreen.jpg)
+![lose screen](loseScreen.JPG)
 
 map layout:
 
@@ -65,13 +65,13 @@ map layout:
 
 game snippet 2 diffarent times same round to show objects that have appeared and disappeared:
 
-![snippet 2](snippet1.jpg)
+![snippet 2](snippet1.JPG)
 
-![snippet 1](snippet2.jpg)
+![snippet 1](snippet2.JPG)
 
 character sprite sheet:
 
-![character sprite](character.png)
+![character sprite](character.jpeg)
 
 
 

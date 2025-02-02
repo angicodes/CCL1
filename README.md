@@ -73,6 +73,21 @@ character sprite sheet:
 
 ![character sprite](character.jpeg)
 
+Reflection:
+
+Problems:
+- Move triggers
+- collision detection
+- time
+
+Solutions:
+ - teahcers and tutors
+ - stay up past 3am
+ - dedication
+ - drawings
+ - friends
+   
+
 
 
 

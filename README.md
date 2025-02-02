@@ -51,7 +51,7 @@ Images:
 
 The starting pasge:
 
-![start screen](startScreen.jpg)
+![start screen](startScreen.JPG)
 
 Win lose screens:
 
